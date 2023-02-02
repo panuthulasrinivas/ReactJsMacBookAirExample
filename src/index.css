@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+div1 {
+    background-image: url("images/e1.png");
+    background-color: #cccccc;
+    background-repeat:no-repeat;
+   background-size:contain;
+   height:200px;
+   width:1200px;
+}
+
+div2 {
+    background-image: url("images/e2.png");
+    background-color: #cccccc;
+}
+
+div3 {
+    background-image: url("images/e3.png");
+    background-color: #cccccc;
+}
+
+div4 {
+    background-image: url("images/e4.png");
+    background-color: #cccccc;
+}
